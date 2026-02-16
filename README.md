@@ -29,8 +29,8 @@ TileRT doesn't exist in a vacuum. It's part of [**tile-ai**](https://github.com/
 | | Project | What it does |
 |---|---|---|
 | 🗣️ | [**tilelang**](https://github.com/tile-ai/tilelang) [![](https://img.shields.io/github/stars/tile-ai/tilelang?style=flat-square)](https://github.com/tile-ai/tilelang) | **The language.** Write tile programs, get optimized GPU kernels. Simple as that. |
-| ⚙️ | [**TileOPs**](https://github.com/tile-ai/TileOPs) [![](https://img.shields.io/github/stars/tile-ai/TileOPs?style=flat-square)](https://github.com/tile-ai/TileOPs) | **The operators.** FlashAttention, MLA, DSA — battle-tested, auto-tuned. |
 | 🌐 | [**TileScale**](https://github.com/tile-ai/tilescale) [![](https://img.shields.io/github/stars/tile-ai/tilescale?style=flat-square)](https://github.com/tile-ai/tilescale) | **The scale-out.** Multi-GPU, multi-node — one mega-device, zero headaches. |
+| ⚙️ | [**TileOPs**](https://github.com/tile-ai/TileOPs) [![](https://img.shields.io/github/stars/tile-ai/TileOPs?style=flat-square)](https://github.com/tile-ai/TileOPs) | **The operators.** FlashAttention, MLA, DSA — battle-tested, auto-tuned. |
 
 ---
 

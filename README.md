@@ -42,7 +42,7 @@ TileRT doesn't exist in a vacuum. It's part of [**tile-ai**](https://github.com/
 
 #### 🛠️ Tech Stack
 
-`CUDA` `C++` `Python` `PyTorch` `TensorRT` `CUTLASS`
+`CUDA` `C++` `Python` `PyTorch` `CUTLASS`
 
 ---
 

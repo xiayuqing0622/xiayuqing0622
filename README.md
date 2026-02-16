@@ -50,5 +50,5 @@ TileRT doesn't exist in a vacuum. It's part of [**tile-ai**](https://github.com/
 
 Building something latency-critical? Want to push LLM inference to the edge? Let's talk.
 
-- **Email**: xiayuqing0622@outlook.com
+- **Email**: xiayuqing0622@outlook.com | xiayq001@gmail.com
 - **GitHub**: [@xiayuqing0622](https://github.com/xiayuqing0622)

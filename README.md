@@ -8,9 +8,8 @@ Every wasted microsecond on GPU is a personal offense to me. I work at the inter
 
 #### 🔥 TileRT — LLM Inference, Absurdly Fast
 
-<a href="https://github.com/tile-ai/TileRT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tile-ai&repo=TileRT&theme=default" />
-</a>
+[![TileRT](https://img.shields.io/github/stars/tile-ai/TileRT?style=for-the-badge&logo=github&label=tile-ai/TileRT)](https://github.com/tile-ai/TileRT)
+[![PyPI](https://img.shields.io/pypi/v/tilert?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/tilert/)
 
 Most inference engines optimize for throughput. We chose the harder problem: **per-request latency**.
 
@@ -27,31 +26,11 @@ TileRT is a tile-based runtime built for scenarios where every millisecond count
 
 TileRT doesn't exist in a vacuum. It's part of [**tile-ai**](https://github.com/tile-ai) — a full stack we're building from scratch around one simple idea: **tiles are the right abstraction for AI compute.**
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/tile-ai/tilelang">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tile-ai&repo=tilelang&theme=default" />
-      </a>
-      <br/>
-      <sub><b>The language.</b> Write tile programs, get optimized GPU kernels. Simple as that.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/tile-ai/TileOPs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tile-ai&repo=TileOPs&theme=default" />
-      </a>
-      <br/>
-      <sub><b>The operators.</b> FlashAttention, MLA, DSA — battle-tested, auto-tuned.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/tile-ai/tilescale">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tile-ai&repo=tilescale&theme=default" />
-      </a>
-      <br/>
-      <sub><b>The scale-out.</b> Multi-GPU, multi-node — one mega-device, zero headaches.</sub>
-    </td>
-  </tr>
-</table>
+| | Project | What it does |
+|---|---|---|
+| 🗣️ | [**tilelang**](https://github.com/tile-ai/tilelang) [![](https://img.shields.io/github/stars/tile-ai/tilelang?style=flat-square)](https://github.com/tile-ai/tilelang) | **The language.** Write tile programs, get optimized GPU kernels. Simple as that. |
+| ⚙️ | [**TileOPs**](https://github.com/tile-ai/TileOPs) [![](https://img.shields.io/github/stars/tile-ai/TileOPs?style=flat-square)](https://github.com/tile-ai/TileOPs) | **The operators.** FlashAttention, MLA, DSA — battle-tested, auto-tuned. |
+| 🌐 | [**TileScale**](https://github.com/tile-ai/tilescale) [![](https://img.shields.io/github/stars/tile-ai/tilescale?style=flat-square)](https://github.com/tile-ai/tilescale) | **The scale-out.** Multi-GPU, multi-node — one mega-device, zero headaches. |
 
 ---
 
@@ -64,15 +43,6 @@ TileRT doesn't exist in a vacuum. It's part of [**tile-ai**](https://github.com/
 #### 🛠️ Tech Stack
 
 `CUDA` `C++` `Python` `PyTorch` `TensorRT` `CUTLASS`
-
----
-
-#### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiayuqing0622&show_icons=true&count_private=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiayuqing0622&layout=compact&theme=default" height="165" />
-</p>
 
 ---
 
